@@ -9,7 +9,6 @@ Semua komponen dipackage dengan docker
 
 ## Menjalankan Postgres dengan Docker
 
-Dari [Video ke-8](https://www.youtube.com/watch?v=45FjeTSla3o)
 
 Step 1: Jalankan Postgres
 ```bash
@@ -50,7 +49,6 @@ SELECT * FROM todo;
 
 ## Menjalankan Semuanya sebagai Docker Container
 
-Dari [Video ke-9](https://www.youtube.com/watch?v=OYJf_xLeB9o) dan [ke-10](https://www.youtube.com/watch?v=gRlioOhPkEo)
 
 Step 1: Buat Docker Network
 ```bash
